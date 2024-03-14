@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Book Title 1",
+    "id": "123456",
+    "cover": "https://i.ibb.co/t4dGFpd/2148430867.jpg",
+    "author": "Jessica Smith",
+    "image": "https://i.ibb.co/hcYM1fd/2149713649.jpg",
+    "posted_date": "March 14, 2024",
+    "reading_time": 8,
+    "hashtags": ["#fiction", "#mystery", "#thriller"]
+  },
+  {
+    "title": "Book Title 2",
+    "id": "789012",
+    "cover": "https://i.ibb.co/tDrXNRb/1177.jpg",
+    "author": "Michael Johnson",
+    "image": "https://i.ibb.co/hcYM1fd/2149713649.jpg",
+    "posted_date": "March 12, 2024",
+    "reading_time": 12,
+    "hashtags": ["#sciencefiction", "#adventure", "#space"]
+  },
+  {
+    "title": "Book Title 3",
+    "id": "345678",
+    "cover": "https://i.ibb.co/47HwZLY/10347.jpg",
+    "author": "Emily Brown",
+    "image": "https://i.ibb.co/hcYM1fd/2149713649.jpg",
+    "posted_date": "March 10, 2024",
+    "reading_time": 6,
+    "hashtags": ["#romance", "#drama", "#contemporary"]
+  },
+  {
+    "title": "Book Title 4",
+    "id": "901234",
+    "cover": "https://i.ibb.co/47HwZLY/10347.jpg",
+    "author": "David Lee",
+    "image": "https://i.ibb.co/hcYM1fd/2149713649.jpg",
+    "posted_date": "March 8, 2024",
+    "reading_time": 10,
+    "hashtags": ["#history", "#biography", "#nonfiction"]
+  },
+  {
+    "title": "Book Title 5",
+    "id": "567890",
+    "cover": "https://i.ibb.co/47HwZLY/10347.jpg",
+    "author": "Samantha White",
+    "image": "https://i.ibb.co/hcYM1fd/2149713649.jpg",
+    "posted_date": "March 6, 2024",
+    "reading_time": 7,
+    "hashtags": ["#fantasy", "#magic", "#youngadult"]
+  }
+]

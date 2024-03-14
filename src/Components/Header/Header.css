@@ -1,0 +1,7 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    width: 1280;
+    height: 64px;
+    border-bottom: 2px solid gray;
+}
